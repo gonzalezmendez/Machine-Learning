@@ -31,4 +31,28 @@
 </tr>
 
 
+<tr>
+  <td align="center" valign="middle" width="20%" style="padding: 10px; border: 1px solid #ccc;">
+    <a href="https://colab.research.google.com/drive/1jXWQAaDHkjk9iCPONpHTAzOD8MjTZd_u?usp=sharing" target="_blank">
+      <img src="https://lh3.googleusercontent.com/d/1imMayT80YEr5EHTai1k18uAiqwezPas9"
+           alt="BetaBank" 
+           style="max-width: 100%; height: auto; display: block;">
+    </a>
+   <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/Colab-Python-blue?logo=googlecolab" alt="Colab">
+    </a>   
+  </td>
+    <td align="left" valign="top" width="80%" style="padding: 20px; border: 1px solid #ccc;">
+      <h3>Los clientes de Beta Bank se están yendo </h3>
+      <p>SNecesitamos predecir si un cliente dejará el banco pronto.</p><br>
+      <b>Habiliades:</b> <code>ETL</code> <code>Python</code> <code>Pandas</code> <code>Numpy</code> <code>Sklearn</code> <code>Seaborn</code> <code>matplotlib</code> <code>f1 score</code> <code>Random Forest</code> <code>ROC/AUC Score</code> <code>google.colab</code>
+      <br><br>
+  <ul>
+    <p>Explicacion en desarrollo </p>
+        <li>1</li>
+        <li>2</li>
+    </ul>
+  </td>
+</tr>
+
 
