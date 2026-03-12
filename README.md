@@ -16,7 +16,7 @@
     <td align="left" valign="top" width="80%" style="padding: 20px; border: 1px solid #ccc;">
       <h3>Megaline: Seleccionar el mejor clasificador Inteligente de Planes Móviles </h3>
       <p>Se debe desarrollar un modelo que pueda analizar el comportamiento de los clientes y recomendar uno de los nuevos planes de Megaline: Smart o Ultra.</p><br>
-      <b>Habiliades:</b> <code>ETL</code> <code>Python</code> <code>Pandas</code> <code>Matplotlib</code> <code>Numpy</code> <code>One-Hot Encoding</code>
+      <b>Habiliades:</b> <code>ETL</code> <code>Python</code> <code>Pandas</code> <code>Numpy</code> <code>Sklearn</code>
       <br><br>
   <ul>
     <p>Se derarrola un modelo con la mayor exactitud posible. </p>
