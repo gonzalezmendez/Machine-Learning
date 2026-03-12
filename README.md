@@ -20,11 +20,11 @@
       <br><br>
   <ul>
     <p>Se derarrola un modelo con la mayor exactitud posible. </p>
-        <li>Mejor exactitud Árbol: 0.7884914463452566</li>
-        <li>Mejor exactitud Bosque: 0.7947122861586314</li>
-        <li>Exactitud Regresión Logística: 0.7418351477449455</li>
-        <li>Exactitud final del modelo en test: 0.8087091757387247</li>
-        <li>Proporción de clases en test: [500 143]</li><br>
+        <li>Mejor exactitud Árbol: 0.8164852255054432</li>
+        <li>Mejor exactitud Bosque: 0.8320373250388803</li>
+        <li>Exactitud Regresión Logística: 0.776049766718507</li>
+        <li>Exactitud final del modelo en test: 0.7869362363919129</li>
+        <li>Proporción de clases en test: [502 141]</li><br>
         Se recomienda la implementación del modelo basado en <b>Random Forest</b> para la campaña de migración de Megaline, ya que ofrece el equilibrio óptimo entre precisión y capacidad de segmentación para los nuevos planes.    
     </ul>
   </td>
