@@ -4,7 +4,7 @@
  
  <tr>
   <td align="center" valign="middle" width="20%" style="padding: 10px; border: 1px solid #ccc;">
-    <a href="#" target="_blank">
+    <a href="https://colab.research.google.com/drive/1K-FZjjP3jLK7s5bwFBGQfE7eHr5iU8Zv?usp=sharing" target="_blank">
       <img src="https://lh3.googleusercontent.com/d/1LhdQ9itdr_INk-S_Y0pRzchKPiRAxAiL"
            alt="megaline" 
            style="max-width: 100%; height: auto; display: block;">
