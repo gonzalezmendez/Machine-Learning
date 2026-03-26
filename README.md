@@ -42,17 +42,20 @@
       <img src="https://img.shields.io/badge/Colab-Python-blue?logo=googlecolab" alt="Colab">
     </a>   
   </td>
-    <td align="left" valign="top" width="80%" style="padding: 20px; border: 1px solid #ccc;">
-      <h3>Los clientes de Beta Bank se están yendo </h3>
-     
-     <p>Este proyecto implementa un sistema de clasificación binaria para predecir la tasa de abandono (churn) de los clientes de Beta Bank. El objetivo principal es identificar a los clientes con mayor probabilidad de cancelar sus cuentas para que el banco pueda ejecutar estrategias dehttps://docs.google.com/document/d/1g8zKFIVdSOqBzBJeckj1IgLRdVjDDOz22rg7EB6P_KA/edit?usp=sharing retención proactivas.</p><br>
-      <b>Habiliades:</b> <code>ETL</code> <code>Python</code> <code>Pandas</code> <code>Numpy</code> <code>Sklearn</code> <code>Seaborn</code> <code>matplotlib</code> <code>f1 score</code> <code>Random Forest</code> <code>ROC/AUC Score</code> <code>google.colab</code>
-      <br><br>
+ 
+ <td align="left" valign="top" width="80%" style="padding: 20px; border: 1px solid #ccc;">
+  <h3>Los clientes de Beta Bank se están yendo </h3>
+  <a href="https://docs.google.com/document/d/1g8zKFIVdSOqBzBJeckj1IgLRdVjDDOz22rg7EB6P_KA/edit?usp=sharing" target="_blank">
+   <img src="https://img.shields.io/badge/Abrir-Reporte-green?logo=google-drive alt="Colab"></a>
+  
+  <p>Este proyecto implementa un sistema de clasificación binaria para predecir la tasa de abandono (churn) de los clientes de Beta Bank. El objetivo principal es identificar a los clientes con mayor probabilidad de cancelar sus cuentas para que el banco pueda ejecutar estrategias dehttps://docs.google.com/document/d/1g8zKFIVdSOqBzBJeckj1IgLRdVjDDOz22rg7EB6P_KA/edit?usp=sharing retención proactivas.</p><br>
+  <b>Habiliades:</b> <code>ETL</code> <code>Python</code> <code>Pandas</code> <code>Numpy</code> <code>Sklearn</code> <code>Seaborn</code> <code>matplotlib</code> <code>f1 score</code> <code>Random Forest</code> <code>ROC/AUC Score</code> <code>google.colab</code><br><br>
+  
   <ul>
-    <p>Explicacion en desarrollo </p>
-        <li>Métrica Principal: Se logró un F1-Score de 0.63 (superando el objetivo mínimo de 0.59) y un AUC-ROC de 0.86.</li>
-        <li>Modelo Final: Random Forest optimizado con n_estimators, max_depth y balanceo interno de clases.</li>
-    </ul>
+   <p>Explicacion en desarrollo </p>
+   <li>Métrica Principal: Se logró un F1-Score de 0.63 (superando el objetivo mínimo de 0.59) y un AUC-ROC de 0.86.</li>
+   <li>Modelo Final: Random Forest optimizado con n_estimators, max_depth y balanceo interno de clases.</li>
+  </ul>
   </td>
 </tr>
 
