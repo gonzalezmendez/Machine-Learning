@@ -50,8 +50,8 @@
       <br><br>
   <ul>
     <p>Explicacion en desarrollo </p>
-        <li>1</li>
-        <li>2</li>
+        <li>Métrica Principal: Se logró un F1-Score de 0.63 (superando el objetivo mínimo de 0.59) y un AUC-ROC de 0.86.</li>
+        <li>Modelo Final: Random Forest optimizado con n_estimators, max_depth y balanceo interno de clases.</li>
     </ul>
   </td>
 </tr>
